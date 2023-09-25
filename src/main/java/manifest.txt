@@ -1,0 +1,1 @@
+Main-Class: Lab1.Task9.Main
